@@ -1,13 +1,44 @@
-[## Hi there 👋
+# FluxVace
 
-<!--
+## Minecraft Netzwerk
 
-**Here are some ideas to get you started:**
+FluxVace ist ein neu gegründetes Minecraft-Server-Netzwerk, das sich derzeit in der Aufbau- und Entwicklungsphase befindet.
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
-](https://github.com/FluxVace/)
+Unser Ziel ist es, ein modernes und professionelles Minecraft-Netzwerk mit einer stabilen Infrastruktur, eigenen Systemen und einer langfristig aktiven Community aufzubauen.
+
+## Aktueller Stand
+
+Das Projekt befindet sich aktuell noch vor dem öffentlichen Start.
+
+Derzeit konzentrieren wir uns auf:
+
+- Aufbau der Server-Infrastruktur
+- Entwicklung eigener Systeme und Plugins
+- Planung und Umsetzung der zukünftigen Spielmodi
+- Vorbereitung der Netzwerk-Struktur
+- Aufbau der technischen Grundlage für eine langfristige Community
+
+Website und Discord befinden sich momentan noch im Aufbau und werden zum öffentlichen Start von FluxVace veröffentlicht.
+
+## Partnerschaften
+
+Wir sind bereits auf der Suche nach langfristigen Partnern, die uns während des Aufbaus von FluxVace begleiten möchten.
+
+Dabei sind insbesondere Partnerschaften im Bereich Hosting, Infrastruktur und technischer Zusammenarbeit interessant.
+
+Für uns steht eine langfristige Zusammenarbeit im Vordergrund, bei der beide Seiten gemeinsam wachsen und voneinander profitieren können.
+
+## Kontakt
+
+**Projekt:** FluxVace  
+**Website:** [www.fluxvace.net](https://github.com/FluxVace/)
+
+Die Website befindet sich derzeit noch im Aufbau.
+
+**Kontaktperson:** Marcel Weixelbaum  
+**Minecraft:** EyNoah
+**Discord:** [originalnoah](https://discord.com/users/1408739495662190694)
+
+---
+
+© 2026 FluxVace. All rights reserved.
