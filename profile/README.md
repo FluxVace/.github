@@ -36,7 +36,7 @@ Für uns steht eine langfristige Zusammenarbeit im Vordergrund, bei der beide Se
 Die Website befindet sich derzeit noch im Aufbau.
 
 **Kontaktperson:** Marcel Weixelbaum  
-**Minecraft:** EyNoah
+**Minecraft:** EyNoah<br>
 **Discord:** [originalnoah](https://discord.com/users/1408739495662190694)
 
 ---
